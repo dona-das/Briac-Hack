@@ -39,6 +39,19 @@ doctors and health workers.
 
 
 
+## BESS SIMULATIONS AND ANALYSIS:
+
+### VOLTAGE ANALYSIS:
+![](https://github.com/dona-das/Briac-Hack/blob/master/volt.JPG)
+
+### CURRENT ANALYSIS:
+![](https://github.com/dona-das/Briac-Hack/blob/master/curr.JPG)
+
+### DATA MANAGEMENT:
+![](https://github.com/dona-das/Briac-Hack/blob/master/cpp.JPG)
+
+### CONTROLLER CODE WITH ATMEGA328P MICROCONTROLLER:
+![](https://github.com/dona-das/Briac-Hack/blob/master/ARD.JPG)
 
 
 
