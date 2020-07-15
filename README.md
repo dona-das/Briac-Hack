@@ -27,7 +27,7 @@ doctors and health workers.
 -  Lack of user awareness.
 -  Alarm error
 
-##APPROACH:
+ ##APPROACH:
 
 | OBJECTIVE                  | IMPORTANCE                                                                                                    |
 |----------------------------|---------------------------------------------------------------------------------------------------------------|
@@ -37,9 +37,7 @@ doctors and health workers.
 | INFUSION RATE CONTROLLER   | It will analyze the fluid flow rate through infusion pump                                                     |
 | PISTON SYRINGE SLOT        | To control the fluid\.                                                                                        |
 
-```BESS MATLAB SIMULATIONS AND ANALYSIS:
 
-##VOLTAGE ANALYSIS BETWEEN PHASES:
 
 
 
